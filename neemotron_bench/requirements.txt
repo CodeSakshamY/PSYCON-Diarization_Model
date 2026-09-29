@@ -1,0 +1,7 @@
+nemo-toolkit[asr]
+streamlit
+pandas
+pyannote.metrics
+faster-whisper
+huggingface_hub
+# system: ffmpeg, Python>=3.12, CUDA PyTorch
